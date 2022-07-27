@@ -23,9 +23,9 @@ const Project = () => {
                 <div className="mask__effect"></div>
               </div>
               <div className="Blog__meta absolute">
-                <h5 className="project__text">Development</h5>
+                <h5 className="project__text">Dashboard</h5>
                 <h4 className="project__text">
-                  Getting tickets to the big show
+                  ReactJs . Material-ui . Recharts
                 </h4>
                 <a
                   href="https://minhdang1202.github.io/dashboard/"
@@ -46,10 +46,8 @@ const Project = () => {
                 <div className="mask__effect"></div>
               </div>
               <div className="Blog__meta absolute">
-                <h5 className="project__text">Development</h5>
-                <h4 className="project__text">
-                  Getting tickets to the big show
-                </h4>
+                <h5 className="project__text">Web-film</h5>
+                <h4 className="project__text">ReactJs</h4>
                 <a
                   href="https://minhdang1202.github.io/my-film/"
                   className="blog project__btn btn"
@@ -69,9 +67,9 @@ const Project = () => {
                 <div className="mask__effect"></div>
               </div>
               <div className="Blog__meta absolute">
-                <h5 className="project__text">Development</h5>
+                <h5 className="project__text">App ecommerce</h5>
                 <h4 className="project__text">
-                  Getting tickets to the big show
+                  ReactJs . Material . React-dom
                 </h4>
                 <a
                   href="https://minhdang1202.github.io/ecommerce-app/"
@@ -92,10 +90,8 @@ const Project = () => {
                 <div className="mask__effect"></div>
               </div>
               <div className="Blog__meta absolute">
-                <h5 className="project__text">Development</h5>
-                <h4 className="project__text">
-                  Getting tickets to the big show
-                </h4>
+                <h5 className="project__text">App ecommerce</h5>
+                <h4 className="project__text">ReactJs</h4>
                 <a
                   href="https://ecommerce-app-sanity-f4rqzd68r-minhdang1202.vercel.app/"
                   className="blog project__btn btn"
